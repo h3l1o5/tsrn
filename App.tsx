@@ -10,6 +10,8 @@ return (
 <Text>Changes you make will automatically reload.</Text>
 </View>
 );
+
+
 }
 }
 
