@@ -31,7 +31,7 @@
     "ios": "react-native run-ios",
     "test": "jest",
     "prettier": "prettier --write *.tsx",
-    "precommit": "pretty-quick --staged"
+    "precommit": "npm run prettier"
   },
   "jest": {
     "globals": {
